@@ -38,9 +38,11 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Lucy Griffiths | lucykgriffiths | - | - | - |
-| Lottie Bryant | lucykgriffiths | - | - | - |
-| Lucy Griffiths | lucykgriffiths | - | - | - |
-| Lucy Griffiths | lucykgriffiths | - | - | - |
-| Lucy Griffiths | lucykgriffiths | - | - | - |
-| Lucy Griffiths | lucykgriffiths | - | - | - |
+| Lucy Griffiths | - | - | - | - |
+| Lottie Bryant | - | - | - | - |
+| Claire Cunliffe | - | - | - | - |
+| Devina Sagar | - | - | - | - |
+| Isobel Jones | - | - | - | - |
+| Yulia | - | - | - | - |
+| Francesca Vianello  | - | - | - | - |
+| Jean Jimbo | - | - | - | - |
