@@ -24,9 +24,13 @@ Culpeper already had a website hosted on Wordpress that they wanted updating. We
 the charity to think of some implementable requirements that would hopefully increase the number of 
 online donations.
 
+## Links
+
+The link to the website is http://culpeper.org.uk/projinstall/
+
 ## Acknowledgement
 
-The site is created using Wordpress, using the following resources:
+The site is created using Wordpress, using the following plugins:
 - Feed Them Social
 - Contact Form 7
 - PayPal for Contact Form 7
