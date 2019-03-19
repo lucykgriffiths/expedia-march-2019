@@ -42,11 +42,11 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Lucy Griffiths | - | - | - | - |
-| Lottie Bryant | - | - | - | - |
-| Claire Cunliffe | - | - | - | - |
-| Devina Sagar | - | - | - | - |
+| Lucy Griffiths | lucykgriffiths | - | https://www.linkedin.com/in/lucy-griffiths-44416b152/ | - |
+| Lottie Bryant | Amalicia | @AmaliciaBryant | https://www.linkedin.com/in/charlotte-bryant-5b27b7151 | - |
+| Claire Cunliffe | clairecccc | @ClaireCunliffe4 | https://www.linkedin.com/in/claire-cunliffe-53002117/?originalSubdomain=uk | - |
+| Devina Sagar | Devina | @Devina | - | - |
 | Isobel Jones | - | - | - | - |
-| Yulia | - | - | - | - |
-| Francesca Vianello  | - | - | - | - |
+| Yulia Litvinchuk | chuk-chuk | - | - | - |
+| Francesca Vianello  | fvvianello | @vianellofv | - | - |
 | Jean Jimbo | - | - | - | - |
